@@ -17,7 +17,7 @@ public class StringManipulator {
         System.out.println();
         System.out.println(StringUtils.swapCase(userInput));
         System.out.println();
-
+        System.out.println(StringUtils.reverse(userInput));
 
     }
 
